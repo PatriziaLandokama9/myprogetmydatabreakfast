@@ -1,0 +1,16 @@
+🥂 MyDataBreakfast – Parte 1: Vino Bianco – EDA
+📁 Repository: eda-vino-bianco
+
+🔍 Tema: Analisi Esplorativa sul dataset del vino bianco (UCI Machine Learning Repository)
+
+📊 Cosa contiene:
+
+Pulizia dati
+
+Statistiche descrittive
+
+Grafici (heatmap, istogrammi, boxplot, scatterplot)
+
+Analisi della correlazione con la qualità del vino
+
+🔗 Blog post: MyDataBreakfast - Vino Bianco
