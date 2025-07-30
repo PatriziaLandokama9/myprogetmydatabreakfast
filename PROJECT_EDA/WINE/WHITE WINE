@@ -1,0 +1,29 @@
+# 🥂 MyDataBreakfast – Parte 1: Vino Bianco e Analisi Esplorativa dei Dati (EDA)
+
+Benvenuti nel primo progetto della serie **My Data Breakfast**: un’analisi esplorativa dei dati (EDA) sul vino bianco! 🍇🍷
+
+## 📊 Contenuto del progetto
+- Analisi del dataset "Wine Quality – White" (UCI Machine Learning Repository)
+- Pulizia dei dati
+- Analisi statistica e visualizzazioni (heatmap, boxplot, pairplot, scatterplot)
+- Relazione tra qualità e variabili chimiche
+
+## 🧰 Tecnologie utilizzate
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Jupyter Notebook
+
+## 📁 File presenti
+- `vino_bianco_EDA.ipynb`: Notebook completo con analisi e grafici
+- `winequality-white.csv`: Dataset originale (se permesso)
+- `README.md`: questa descrizione
+
+## 🚀 Come usarlo
+1. Clona la repo o scarica i file
+2. Apri il file `.ipynb` in Jupyter Notebook, Colab o VS Code
+3. Esegui le celle passo-passo
+
+## 📬 Contatti
+Hai domande o vuoi suggerire miglioramenti? Scrivimi su [LinkedIn]https://www.linkedin.com/in/patrizia-lando-kama99/) o lascia un commento sul blog!
